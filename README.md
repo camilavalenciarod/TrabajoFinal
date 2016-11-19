@@ -1,16 +1,15 @@
-# Trabajo Final
 
-# Analysis of the speeches given by the President of Colombia, Juan M. Santos, from August 2010 to March 2016
+# Efecto de grupo par sobre el rendimiento académico de los estudiantes de primer semestre de la Facultad de Economía en la Universidad del Rosario
 
-[Santiago Matallana](http://www.santiagomatallana.com) - [About me](https://github.com/smatallana/resume_docs/blob/master/Santiago%20Matallana%20-%20Resume.pdf)
+[Camila Valencia](https://github.com/camilavalenciarod/Resume/blob/master/HojadeVida%20Nov%202016.pdf) 
 
-15-Mar-2016
+25-Nov-2016
 
-<img src="wordcloud/wordcloud.png">
+
 
 ---
 
-## Description and motivation
+## Descripción y Motivación
 
 Colombia’s Presidency makes public on its website the interventions/speeches that current President Juan Manuel Santos has given since he came to office in August 2010. For this project I scraped those texts (over 2,600 speeches) and analyzed them using text analysis tools in Python.
 
@@ -29,7 +28,7 @@ Some questions/issues that motivated the project are:
 
 
 
-## Methods used
+## Metodos usados
 
 1. Scraping
     - The President’s speeches are available online in three batches, from three different websites.
@@ -51,7 +50,7 @@ Some questions/issues that motivated the project are:
     - Code is available in [here](consolidate_clean.ipynb).
 
 
-## Findings
+## Resultados
 
 All code for analysis available [here](speeches_analysis.ipynb).
 
