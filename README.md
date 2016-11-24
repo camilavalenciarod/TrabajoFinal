@@ -29,12 +29,13 @@ Todos los datos estan codificados por el numero del individuo, los datos de la e
     - Lo primero fue convertir esa unica celda con la informacion de la red en varias columnas y despues de eso hacer la matriz de unos         que me deja modelar la red con los comandos de igraph en R
     - Despues de esto hice multiplique las filas de la matriz por los vectores que me interesaban tener el promedio de la red, como lo es       el desempeño promedio de la red de cada estudiante y como lo es los resultados del Saber 11 promedio de la red de cada estudiante
     
- 
-        - 
 2. Redes en R
-
+    - Al tener la matriz de la red, mediante una serie de comandos en R. Modele las graficas con direcciones, las redes con atributos como      lo son genero, estrato, programa, desempeño academico, ser beneficiario de ser pilo paga
+    - Ademas de las graficas, obtuve una serie de variables descriptivas de cada una de las 6 redes
+    
 3. Analisis en Stata
-
+    - Con la base generada en excel pude correr la regresion de minimos cuadrados ordinarios la cual tiene un problema de endogeneidad por      el problema de reflexion descrito por Manski (1993). 
+    - Luego muestro la regresion de minimos cuadrados ordinarios en dos etapas, para resolver el probema de endogeneidad por medio de           variables instrumentales.
 
 ## Resultados
 
