@@ -26,7 +26,9 @@ Los datos con los que cuento son algunas caracteristicas socioeconomicas proveni
 Todos los datos estan codificados por el numero del individuo, los datos de la encuesta de redes estaban forma string con el codigo de todos los estudiantes pertenecientes a la red del individuo
 
 1. Excel
-    - Lo primero
+    - Lo primero fue convertir esa unica celda con la informacion de la red en varias columnas y despues de eso hacer la matriz de unos         que me deja modelar la red con los comandos de igraph en R
+    - Despues de esto hice multiplique las filas de la matriz por los vectores que me interesaban tener el promedio de la red, como lo es       el desempeño promedio de la red de cada estudiante y como lo es los resultados del Saber 11 promedio de la red de cada estudiante
+    
  
         - 
 2. Redes en R
