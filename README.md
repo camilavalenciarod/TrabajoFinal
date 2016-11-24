@@ -39,6 +39,15 @@ Todos los datos estan codificados por el numero del individuo, los datos de la e
 
 ## Resultados
 
+1. Resultados de las Redes
+    - La red es 
+    - La red esta polarizada por el programa que estudian y por ser parte de ser pilo paga
+    - La centralidad
+
+2. Resultados del analisis econometrico
+    - Los resultados de OLS dan significativos y grandes pero estos estimadores son inconsistente y sesgados debido a la endogeneidad
+    - El instrumento parece tener problemas derelevancia, lo cual se puede deber a que el tamaño de muestra es reducido, por lo tanto sera necesario hacer un test de relevancia independiente al tamaño de muestra
+    - Los efectos en la segunda etapa son grandes y relevantes a un 10%, por lo que se puede inferir que si hay efecto del grupo par sobre el rendimiento de los estudiantes. 
 
 
 
